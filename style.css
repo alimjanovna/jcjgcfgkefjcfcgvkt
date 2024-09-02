@@ -1,0 +1,43 @@
+body {
+    background-color: #2A5D5A;
+    font-family: Arial, sans-serif;
+    color: #000;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.container {
+    text-align: center;
+    
+
+
+}
+
+h1 {
+    background-color: #3f2221;
+    color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 20px;
+}
+
+.box {
+    border: 10px solid red;
+    background-color: #5fe9d3;
+    margin-bottom: 20px;
+    color: white;
+}
+
+.padding-example .content {
+    padding: 20px;
+    background-color: black;
+}
+
+.margin-example .content {
+    margin: 20px;
+    background-color: black;
+    padding: 20px;
+}
